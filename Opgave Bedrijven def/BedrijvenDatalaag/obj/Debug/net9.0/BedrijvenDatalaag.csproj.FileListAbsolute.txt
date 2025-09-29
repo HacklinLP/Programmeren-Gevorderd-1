@@ -1,0 +1,15 @@
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\bin\Debug\net9.0\BedrijvenDatalaag.deps.json
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\bin\Debug\net9.0\BedrijvenDatalaag.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\bin\Debug\net9.0\BedrijvenDatalaag.pdb
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\bin\Debug\net9.0\BedrijvenDomein.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\bin\Debug\net9.0\BedrijvenDomein.pdb
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.csproj.AssemblyReference.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.AssemblyInfoInputs.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.AssemblyInfo.cs
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\Bedrijve.B71D7B7B.Up2Date
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\refint\BedrijvenDatalaag.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\BedrijvenDatalaag.pdb
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDatalaag\obj\Debug\net9.0\ref\BedrijvenDatalaag.dll

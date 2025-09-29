@@ -1,0 +1,5 @@
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.csproj.AssemblyReference.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.AssemblyInfoInputs.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.AssemblyInfo.cs
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\ConsoleAppTestDomein\obj\Debug\net9.0\ConsoleAppTestDomein.csproj.CoreCompileInputs.cache

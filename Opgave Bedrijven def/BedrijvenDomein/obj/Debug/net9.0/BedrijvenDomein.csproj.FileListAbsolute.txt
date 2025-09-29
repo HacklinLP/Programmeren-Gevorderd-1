@@ -1,0 +1,11 @@
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\bin\Debug\net9.0\BedrijvenDomein.deps.json
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\bin\Debug\net9.0\BedrijvenDomein.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\bin\Debug\net9.0\BedrijvenDomein.pdb
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\BedrijvenDomein.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\BedrijvenDomein.AssemblyInfoInputs.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\BedrijvenDomein.AssemblyInfo.cs
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\BedrijvenDomein.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\BedrijvenDomein.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\refint\BedrijvenDomein.dll
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\BedrijvenDomein.pdb
+C:\Users\Lucas Petit\Documents\HoGent\Programmeren Gevorderd 1\Opgave Bedrijven def\BedrijvenDomein\obj\Debug\net9.0\ref\BedrijvenDomein.dll
