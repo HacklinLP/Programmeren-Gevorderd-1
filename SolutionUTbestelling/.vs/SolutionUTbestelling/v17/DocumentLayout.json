@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lucas Petit\\Documents\\HoGent\\Programmeren Gevorderd 1\\SolutionUTbestelling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0352F9F2-7501-449E-9831-78309A2494BD}|TestBestellingBL\\TestBestellingBL.csproj|c:\\users\\lucas petit\\documents\\hogent\\programmeren gevorderd 1\\solutionutbestelling\\testbestellingbl\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0352F9F2-7501-449E-9831-78309A2494BD}|TestBestellingBL\\TestBestellingBL.csproj|solutionrelative:testbestellingbl\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0DF1D93-30F4-4D86-815C-239326FF2990}|BestellingBL\\BestellingBL.csproj|c:\\users\\lucas petit\\documents\\hogent\\programmeren gevorderd 1\\solutionutbestelling\\bestellingbl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0DF1D93-30F4-4D86-815C-239326FF2990}|BestellingBL\\BestellingBL.csproj|solutionrelative:bestellingbl\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Petit\\Documents\\HoGent\\Programmeren Gevorderd 1\\SolutionUTbestelling\\BestellingBL\\Product.cs",
+              "RelativeDocumentMoniker": "BestellingBL\\Product.cs",
+              "ToolTip": "C:\\Users\\Lucas Petit\\Documents\\HoGent\\Programmeren Gevorderd 1\\SolutionUTbestelling\\BestellingBL\\Product.cs",
+              "RelativeToolTip": "BestellingBL\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:43:33.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Lucas Petit\\Documents\\HoGent\\Programmeren Gevorderd 1\\SolutionUTbestelling\\TestBestellingBL\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestBestellingBL\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Lucas Petit\\Documents\\HoGent\\Programmeren Gevorderd 1\\SolutionUTbestelling\\TestBestellingBL\\UnitTest1.cs",
+              "RelativeToolTip": "TestBestellingBL\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T06:43:06.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
